@@ -1,0 +1,5 @@
+
+Iniciando um repositório(repo)
+
+git init: comando para iniciar um repositório
+git status: Podemos ver a situação dos arquivos no repositório Git com este comando
